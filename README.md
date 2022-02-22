@@ -5,4 +5,4 @@
 <p align="center">
 <a href="https://blog.naver.com/dheotjd4824"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
