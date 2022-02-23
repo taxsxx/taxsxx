@@ -14,5 +14,5 @@
 <h3 align="center">Me👋</h3>
 <p align="center">
 <a href="https://blog.naver.com/dheotjd4824"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://tasteful-save-3d8.notion.site/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<a href="https://tasteful-save-3d8.notion.site/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 </p>
