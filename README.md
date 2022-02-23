@@ -1,4 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&height=150&text=DaesungOh)
+<h3 align="center">Me👋</h3>
+<p align="center">
+<a href="https://tasteful-save-3d8.notion.site/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<a href="https://blog.naver.com/dheotjd4824"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</p>
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1a2432fe733ac4772ad5036bd3f66738d9a9c4471bba0617c8ea93c34d54102a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1a2432fe733ac4772ad5036bd3f66738d9a9c4471bba0617c8ea93c34d54102a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
@@ -11,8 +16,4 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/373d4fa9ba9245d811336f29bdca4617c00739b772ec8f2ef6ed0f9e7a42e81d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/373d4fa9ba9245d811336f29bdca4617c00739b772ec8f2ef6ed0f9e7a42e81d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/497b86eb47d5bb063506dd84bca086b0c35353ce1a166123c252c1851a3c1313/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468796d656c6561662d3030354630463f7374796c653d666c61742d737175617265266c6f676f3d5468796d656c656166266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/497b86eb47d5bb063506dd84bca086b0c35353ce1a166123c252c1851a3c1313/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468796d656c6561662d3030354630463f7374796c653d666c61742d737175617265266c6f676f3d5468796d656c656166266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&amp;logo=Thymeleaf&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
 </p>
-<h3 align="center">Me👋</h3>
-<p align="center">
-<a href="https://tasteful-save-3d8.notion.site/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<a href="https://blog.naver.com/dheotjd4824"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-</p>
+
